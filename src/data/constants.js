@@ -9,7 +9,7 @@ export const Bio = {
   description:"I develop seamless user interfaces and scalable backend solutions to create responsive, performance driven web applications.",
   github: "https://github.com/swapnilpokale",
   resume:
-    "https://drive.google.com/file/d/1kW9dRhzE6t1qLOtH9deQNzB4zjoV0QUi/view?usp=sharing",
+    "https://drive.google.com/file/d/17k3jodTGj9YKbhZA8Y0Mo3Wh43M3MqPV/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/swapnil-pokale-737078226/",
 };
 
